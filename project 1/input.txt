@@ -1,0 +1,10 @@
+rice
+100
+dall
+120
+meet
+500
+chicken
+125
+
+

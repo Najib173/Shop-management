@@ -1,0 +1,15 @@
+STS SUPER SHOP
+           (Shop):Arogra)
+
+---------------------------------------=
+
+rice  1 kg   = 100.0 taka
+---------------------------------------=
+Total amount    =     100.0taka
+ Discount     =       5 %
+ Discounted price =  95.0 taka
+ Price + Vat   =     99.75 taka
+ Given amount   =   540 taka
+---------------------------------------=
+ Return amount  =     440.25 taka
+THANK YOU
